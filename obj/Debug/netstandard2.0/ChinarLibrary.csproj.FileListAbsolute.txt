@@ -1,0 +1,14 @@
+C:\Users\ChinarWork\source\repos\ClassLibrary1\bin\Debug\netstandard2.0\ChinarLibrary.deps.json
+C:\Users\ChinarWork\source\repos\ClassLibrary1\bin\Debug\netstandard2.0\ChinarLibrary.dll
+C:\Users\ChinarWork\source\repos\ClassLibrary1\bin\Debug\netstandard2.0\ChinarLibrary.pdb
+C:\Users\ChinarWork\source\repos\ClassLibrary1\bin\Debug\netstandard2.0\ChinarLibrary.xml
+C:\Users\ChinarWork\source\repos\ClassLibrary1\bin\Debug\netstandard2.0\UnityEngine.dll
+C:\Users\ChinarWork\source\repos\ClassLibrary1\bin\Debug\netstandard2.0\UnityEngine.UI.dll
+C:\Users\ChinarWork\source\repos\ClassLibrary1\bin\Debug\netstandard2.0\UnityEngine.xml
+C:\Users\ChinarWork\source\repos\ClassLibrary1\bin\Debug\netstandard2.0\UnityEngine.UI.xml
+C:\Users\ChinarWork\source\repos\ClassLibrary1\obj\Debug\netstandard2.0\ChinarLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ChinarWork\source\repos\ClassLibrary1\obj\Debug\netstandard2.0\ChinarLibrary.AssemblyInfoInputs.cache
+C:\Users\ChinarWork\source\repos\ClassLibrary1\obj\Debug\netstandard2.0\ChinarLibrary.AssemblyInfo.cs
+C:\Users\ChinarWork\source\repos\ClassLibrary1\obj\Debug\netstandard2.0\ChinarLibrary.csproj.CopyComplete
+C:\Users\ChinarWork\source\repos\ClassLibrary1\obj\Debug\netstandard2.0\ChinarLibrary.dll
+C:\Users\ChinarWork\source\repos\ClassLibrary1\obj\Debug\netstandard2.0\ChinarLibrary.pdb

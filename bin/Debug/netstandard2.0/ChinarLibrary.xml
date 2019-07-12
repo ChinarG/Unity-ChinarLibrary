@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ChinarLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:ChinarX.ChinarSystemExtension">
+            <summary>
+            Chinar系统扩展类-用于简化高质量代码
+            </summary>
+        </member>
+        <member name="M:ChinarX.ChinarSystemExtension.Off(UnityEngine.GameObject)">
+            <summary>
+            关闭游戏对象
+            </summary>
+        </member>
+        <member name="M:ChinarX.ChinarSystemExtension.Off(UnityEngine.Transform)">
+            <summary>
+            关闭游戏对象
+            </summary>
+        </member>
+        <member name="M:ChinarX.ChinarSystemExtension.On(UnityEngine.GameObject)">
+            <summary>
+            激活游戏对象
+            </summary>
+        </member>
+        <member name="M:ChinarX.ChinarSystemExtension.On(UnityEngine.Transform)">
+            <summary>
+            激活游戏对象
+            </summary>
+        </member>
+        <member name="M:ChinarX.ChinarSystemExtension.SetParent(UnityEngine.GameObject,UnityEngine.GameObject)">
+            <summary>
+            设置父物体
+            </summary>
+        </member>
+        <member name="M:ChinarX.ChinarSystemExtension.SetParent(UnityEngine.GameObject,UnityEngine.Transform)">
+            <summary>
+            设置父物体
+            </summary>
+        </member>
+        <member name="M:ChinarX.ChinarSystemExtension.Get``1(UnityEngine.GameObject)">
+            <summary>
+            获取组件
+            </summary>
+        </member>
+        <member name="M:ChinarX.ChinarSystemExtension.SetActive(UnityEngine.UI.Button,System.Boolean)">
+            <summary>
+            开启按钮
+            </summary>
+            <param name="isOn">是否激活按钮</param>
+        </member>
+        <member name="M:ChinarX.ChinarSystemExtension.SetEmission(UnityEngine.Material,UnityEngine.Color)">
+            <summary>
+            设置材质的散射光
+            </summary>
+            <param name="color">需要改变的颜色</param>
+        </member>
+    </members>
+</doc>

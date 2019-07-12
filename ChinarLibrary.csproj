@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>ChinarLibrary</AssemblyName>
+    <RootNamespace>ChinarLibrary</RootNamespace>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>C:\Users\ChinarWork\source\repos\ClassLibrary1\ChinarLibrary.xml</DocumentationFile>
+    <OutputPath></OutputPath>
+    <GenerateSerializationAssemblies>Auto</GenerateSerializationAssemblies>
+    <Optimize>false</Optimize>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="UnityEngine">
+      <HintPath>D:\WorkWare\UnityHub\Unity\2018.4.0f1\Editor\Data\Managed\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>D:\WorkWare\UnityHub\Unity\2018.4.0f1\Editor\Data\UnityExtensions\Unity\GUISystem\UnityEngine.UI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
